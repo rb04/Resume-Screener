@@ -1,5 +1,8 @@
 # 🧠 AI Resume Screener Web App
 
+Live Demo
+(https://resume-screener-functrsplr6yssbs5ju7po.streamlit.app/)
+
 This is a smart resume screener built with Python and Streamlit that:
 - ✅ ranks resumes based on job descriptions using NLP (TF-IDF + cosine similarity)
 - 📄 supports `.txt` and `.pdf` files
